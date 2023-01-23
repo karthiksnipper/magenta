@@ -28,19 +28,22 @@ public class Super {
 	
 	}
 		
-	private void road() {
+
+	
+	private void method7() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void wheel() {
+	private void method8() {
 		// TODO Auto-generated method stub
 
 	}
 	
-	private void holy() {
+	private void method9() {
 		// TODO Auto-generated method stub
 
 	}
+	
 	
 }
