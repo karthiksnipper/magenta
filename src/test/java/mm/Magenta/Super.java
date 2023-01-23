@@ -25,23 +25,22 @@ public class Super {
 	
 	private void audi() {
 		System.out.println("audi");
-		
-//		//ddf
-//		sjdsad
-//		ddfdfdfd
-//		sssdfdfddf
-//		sds
-//		sdsd
-//		df
-//		df
-//		dfd
-//		fdf
-//		d
-//		fdf
-//		d
-//		f
+	
 	}
 		
+	private void road() {
+		// TODO Auto-generated method stub
 
+	}
+	
+	private void wheel() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void holy() {
+		// TODO Auto-generated method stub
+
+	}
 	
 }
