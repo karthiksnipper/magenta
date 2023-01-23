@@ -1,6 +1,7 @@
-package mm.Magenta;
+package ii;
 
-public class Super {
+public class SampleM {
+	
 
 	private void Meth() { System.out.println("m1");
 
@@ -13,7 +14,6 @@ public class Super {
 	private void blueStone() {
 		System.out.println("m3");
 	}
-	
 
-	
+
 }
