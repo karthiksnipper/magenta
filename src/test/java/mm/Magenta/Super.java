@@ -2,7 +2,7 @@ package mm.Magenta;
 
 public class Super {
 
-	private void Meth() { System.out.println("m1");
+	private  void Meth() { System.out.println("m1");
 
 	}
 	
@@ -15,18 +15,33 @@ public class Super {
 	}
 	
 	
-	private void india() { System.out.println("india");
+	private void benz() { System.out.println("benz");
 
 	}
 	
-	private void america() {
-		System.out.println("USA");
+	private void vovlo() {
+		System.out.println("volvo");
 	}
 	
-	private void france() {
-		System.out.println("France");
+	private void audi() {
+		System.out.println("audi");
+		
+//		//ddf
+//		sjdsad
+//		ddfdfdfd
+//		sssdfdfddf
+//		sds
+//		sdsd
+//		df
+//		df
+//		dfd
+//		fdf
+//		d
+//		fdf
+//		d
+//		f
 	}
-	
+		
 
 	
 }
